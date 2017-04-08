@@ -5,7 +5,8 @@
       "type": "Feature",
       "id": 1,
       "properties": {
-        "description": "Standard Dorm Cluster"
+        "description": "Standard Dorm Cluster",
+        "waterconsumption":
       },
       "geometry": {
         "type": "Polygon",
@@ -39,7 +40,8 @@
       "type": "Feature",
       "id": 2,
       "properties": {
-        "description": "Category 2 Cluster"
+        "description": "Category 2 Cluster",
+        "waterconsumption":
       },
       "geometry": {
         "type": "Polygon",
@@ -73,7 +75,8 @@
       "type": "Feature",
       "id": 3,
       "properties": {
-        "description": "Dorm L,M,N Cluster"
+        "description": "Dorm L,M,N Cluster",
+        "waterconsumption":
       },
       "geometry": {
         "type": "Polygon",
@@ -115,7 +118,8 @@
       "type": "Feature",
       "id": 4,
       "properties": {
-        "description": "Dorm P Cluster"
+        "description": "Dorm P Cluster",
+        "waterconsumption":
       },
       "geometry": {
         "type": "Polygon",
@@ -149,7 +153,8 @@
       "type": "Feature",
       "id": 5,
       "properties": {
-        "description": "Dorm Q,R,S Cluster"
+        "description": "Dorm Q,R,S Cluster",
+        "waterconsumption":
       },
       "geometry": {
         "type": "Polygon",
@@ -191,7 +196,8 @@
       "type": "Feature",
       "id": 6,
       "properties": {
-        "description": "Category 5 Cluster"
+        "description": "Category 5 Cluster",
+        "waterconsumption":
       },
       "geometry": {
         "type": "Polygon",
@@ -233,12 +239,8 @@
       "type": "Feature",
       "id": 7,
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "description": "Student Village 1 Cluster"
+        "description": "Student Village 1 Cluster",
+        "waterconsumption":
       },
       "geometry": {
         "type": "Polygon",
@@ -272,12 +274,8 @@
       "type": "Feature",
       "id": 8,
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "description": "Student Village 2 Cluster"
+        "description": "Student Village 2 Cluster",
+        "waterconsumption":
       },
       "geometry": {
         "type": "Polygon",
@@ -315,12 +313,8 @@
       "type": "Feature",
       "id": 9,
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "description": "Student Village 3 Cluster"
+        "description": "Student Village 3 Cluster",
+        "waterconsumption":
       },
       "geometry": {
         "type": "Polygon",
