@@ -6,7 +6,7 @@
       "id": 1,
       "properties": {
         "description": "Standard Dorm Cluster",
-        "waterconsumption":
+        "waterconsumption":0
       },
       "geometry": {
         "type": "Polygon",
@@ -41,7 +41,7 @@
       "id": 2,
       "properties": {
         "description": "Category 2 Cluster",
-        "waterconsumption":
+        "waterconsumption":0
       },
       "geometry": {
         "type": "Polygon",
@@ -76,7 +76,7 @@
       "id": 3,
       "properties": {
         "description": "Dorm L,M,N Cluster",
-        "waterconsumption":
+        "waterconsumption":0
       },
       "geometry": {
         "type": "Polygon",
@@ -119,7 +119,7 @@
       "id": 4,
       "properties": {
         "description": "Dorm P Cluster",
-        "waterconsumption":
+        "waterconsumption":0
       },
       "geometry": {
         "type": "Polygon",
@@ -154,7 +154,7 @@
       "id": 5,
       "properties": {
         "description": "Dorm Q,R,S Cluster",
-        "waterconsumption":
+        "waterconsumption":0
       },
       "geometry": {
         "type": "Polygon",
@@ -197,7 +197,7 @@
       "id": 6,
       "properties": {
         "description": "Category 5 Cluster",
-        "waterconsumption":
+        "waterconsumption":0
       },
       "geometry": {
         "type": "Polygon",
@@ -240,7 +240,7 @@
       "id": 7,
       "properties": {
         "description": "Student Village 1 Cluster",
-        "waterconsumption":
+        "waterconsumption":0
       },
       "geometry": {
         "type": "Polygon",
@@ -275,7 +275,7 @@
       "id": 8,
       "properties": {
         "description": "Student Village 2 Cluster",
-        "waterconsumption":
+        "waterconsumption":0
       },
       "geometry": {
         "type": "Polygon",
@@ -314,7 +314,7 @@
       "id": 9,
       "properties": {
         "description": "Student Village 3 Cluster",
-        "waterconsumption":
+        "waterconsumption":0
       },
       "geometry": {
         "type": "Polygon",
