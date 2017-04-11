@@ -468,8 +468,8 @@
       "properties": {
         "description": "Faculty House 1 - 8 Cluster",
         "waterconsumption": 435,
-        "male": 8,
-        "female": 56
+        "male": ,
+        "female": 
       },
       "geometry": {
         "type": "Polygon",
@@ -533,8 +533,8 @@
       "properties": {
         "description": "Faculty House 9 - 28 Cluster",
         "waterconsumption": 459,
-        "male": 8,
-        "female": 56
+        "male": ,
+        "female": 
       },
       "geometry": {
         "type": "Polygon",
@@ -590,8 +590,8 @@
       "properties": {
         "description": "Staff House 4 - 5 Cluster",
         "waterconsumption": 515,
-        "male": 8,
-        "female": 56
+        "male": ,
+        "female": 
       },
       "geometry": {
         "type": "Polygon",
@@ -627,8 +627,8 @@
       "properties": {
         "description": "Staff House 6 - 8 Cluster",
         "waterconsumption": 2056,
-        "male": 8,
-        "female": 56
+        "male": ,
+        "female": 
       },
       "geometry": {
         "type": "Polygon",
@@ -668,12 +668,13 @@
     },
     {
       "type": "Feature",
-      "id":14,
+      "id": 14,
       "properties": {
         "description": "Staff House 9 - 12 Cluster",
         "waterconsumption": 885,
-        "male": 8,
-        "female": 56},
+        "male": ,
+        "female": 
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -737,6 +738,78 @@
             [
               100.60657024383545,
               14.077965391720037
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id":15
+      "properties": {
+        "description": "AIT Community School",
+        "waterconsumption": 82,
+        "male": ,
+        "female": },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              100.60502529144286,
+              14.077424247762151
+            ],
+            [
+              100.60499310493469,
+              14.076375777696605
+            ],
+            [
+              100.60500383377074,
+              14.076318540978864
+            ],
+            [
+              100.6050306558609,
+              14.07627691426605
+            ],
+            [
+              100.60508966445923,
+              14.076250897566673
+            ],
+            [
+              100.60516476631163,
+              14.076224880864347
+            ],
+            [
+              100.60516476631163,
+              14.076167644108809
+            ],
+            [
+              100.60631543397903,
+              14.076167644108809
+            ],
+            [
+              100.6063449382782,
+              14.077153675302588
+            ],
+            [
+              100.60630202293396,
+              14.077153675302588
+            ],
+            [
+              100.6062912940979,
+              14.077239530060048
+            ],
+            [
+              100.60636639595032,
+              14.077299368205242
+            ],
+            [
+              100.60635566711426,
+              14.077424247762151
+            ],
+            [
+              100.60502529144286,
+              14.077424247762151
             ]
           ]
         ]
