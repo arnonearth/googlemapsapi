@@ -5,10 +5,11 @@
       "type": "Feature",
       "id": 1,
       "properties": {
-       "description": "Standard Dorm Cluster",
-        "waterconsumption":6957,
-        "male":123,
-        "female":92},
+        "description": "Standard Dorm Cluster",
+        "waterconsumption": 6957,
+        "male": 123,
+        "female": 92
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -54,9 +55,10 @@
       "id": 2,
       "properties": {
         "description": "Category 2 Cluster",
-        "waterconsumption":487,
-        "male":61,
-        "female":56},
+        "waterconsumption": 487,
+        "male": 61,
+        "female": 56
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -134,9 +136,10 @@
       "id": 3,
       "properties": {
         "description": "Dorm L,M,N Cluster",
-        "waterconsumption":948,
-        "male":107,
-        "female":56},
+        "waterconsumption": 948,
+        "male": 107,
+        "female": 56
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -178,9 +181,10 @@
       "id": 4,
       "properties": {
         "description": "Dorm P Cluster",
-        "waterconsumption":730,
-        "male":33,
-        "female":11},
+        "waterconsumption": 730,
+        "male": 33,
+        "female": 11
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -222,9 +226,10 @@
       "id": 5,
       "properties": {
         "description": "Dorm Q,R,S Cluster",
-        "waterconsumption":868,
-        "male":116,
-        "female":50},
+        "waterconsumption": 868,
+        "male": 116,
+        "female": 50
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -270,9 +275,10 @@
       "id": 6,
       "properties": {
         "description": "Category 5 Cluster",
-        "waterconsumption":1566,
-        "male":168,
-        "female":124},
+        "waterconsumption": 1566,
+        "male": 168,
+        "female": 124
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -334,9 +340,10 @@
       "id": 7,
       "properties": {
         "description": "Student Village 1 Cluster",
-        "waterconsumption":1571,
-        "male":46,
-        "female":52},
+        "waterconsumption": 1571,
+        "male": 46,
+        "female": 52
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -370,9 +377,10 @@
       "id": 8,
       "properties": {
         "description": "Student Village 2 Cluster",
-        "waterconsumption":1130,
-        "male":59,
-        "female":45},
+        "waterconsumption": 1130,
+        "male": 59,
+        "female": 45
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -418,9 +426,10 @@
       "id": 9,
       "properties": {
         "description": "Student Village 3 Cluster",
-        "waterconsumption":435,
-        "male":86,
-        "female":56},
+        "waterconsumption": 435,
+        "male": 86,
+        "female": 56
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -448,6 +457,207 @@
             [
               100.60852289199829,
               14.078353037325034
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id":10,
+      "properties": {
+        "description": "Faculty House 1 - 8 Cluster",
+        "waterconsumption": 435,
+        "male": 8,
+        "female": 56
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              100.6131014227867,
+              14.077249936695123
+            ],
+            [
+              100.61301827430725,
+              14.077255140012483
+            ],
+            [
+              100.61248183250427,
+              14.077156276962388
+            ],
+            [
+              100.61248183250427,
+              14.076183254134472
+            ],
+            [
+              100.61442375183105,
+              14.076201465829719
+            ],
+            [
+              100.61425477266312,
+              14.076396591044958
+            ],
+            [
+              100.61426013708115,
+              14.076422607727732
+            ],
+            [
+              100.61359494924545,
+              14.077109447081623
+            ],
+            [
+              100.6134581565857,
+              14.077192700196345
+            ],
+            [
+              100.61334818601608,
+              14.077223920106546
+            ],
+            [
+              100.61323016881943,
+              14.077249936695123
+            ],
+            [
+              100.6131014227867,
+              14.077249936695123
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id":11,
+      "properties": {
+        "description": "Faculty House 9 - 28 Cluster",
+        "waterconsumption": 459,
+        "male": 8,
+        "female": 56},
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              100.61065256595612,
+              14.076183254134472
+            ],
+            [
+              100.61066329479216,
+              14.077291563230666
+            ],
+            [
+              100.61064183712006,
+              14.077322783127368
+            ],
+            [
+              100.60925781726837,
+              14.077322783127368
+            ],
+            [
+              100.60925781726837,
+              14.077062617191254
+            ],
+            [
+              100.6085282564163,
+              14.077073023834396
+            ],
+            [
+              100.60853898525238,
+              14.076552691097174
+            ],
+            [
+              100.60730516910553,
+              14.076542284430344
+            ],
+            [
+              100.60730516910553,
+              14.076178050792699
+            ],
+            [
+              100.61065256595612,
+              14.076183254134472
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id":12,
+      "properties": {
+      "description": "Staff House 4 - 5 Cluster",
+        "waterconsumption": 515,
+        "male": 8,
+        "female": 56 },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              100.60850143432617,
+              14.077078227155775
+            ],
+            [
+              100.6092444062233,
+              14.077078227155775
+            ],
+            [
+              100.6092444062233,
+              14.077333189758651
+            ],
+            [
+              100.60850143432617,
+              14.077333189758651
+            ],
+            [
+              100.60850143432617,
+              14.077078227155775
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id":13,
+      "properties": {
+        "description": "Staff House 6 - 8 Cluster",
+        "waterconsumption": 607,
+        "male": 8,
+        "female": 56 },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              100.60727298259735,
+              14.077226521765542
+            ],
+            [
+              100.60727834701538,
+              14.076552691097174
+            ],
+            [
+              100.6085282564163,
+              14.07655789443041
+            ],
+            [
+              100.60851752758026,
+              14.077073023834396
+            ],
+            [
+              100.60849070549011,
+              14.077073023834396
+            ],
+            [
+              100.60849070549011,
+              14.077208310151974
+            ],
+            [
+              100.60727298259735,
+              14.077226521765542
             ]
           ]
         ]
