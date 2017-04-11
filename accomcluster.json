@@ -950,7 +950,7 @@
       "type": "Feature",
       "id":18,
       "properties": {
-        "description": "Admin, AITC, Avenue, Swimming pool Cluster",
+        "description": "Academic Buidlings, Water Engineering Cluster",
         "waterconsumption": 2567},
       "geometry": {
         "type": "Polygon",
