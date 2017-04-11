@@ -818,7 +818,7 @@
     },
     {
       "type": "Feature",
-      "id": 15,
+      "id": 16,
       "properties": {
         "description": "Library, Bikeshop, Inthanin Cluster",
         "waterconsumption": 6
@@ -873,10 +873,11 @@
     },
     {
       "type": "Feature",
-      "id":16,
+      "id": 17,
       "properties": {
         "description": "Admin, AITC, Avenue, Swimming pool Cluster",
-        "waterconsumption": 3567},
+        "waterconsumption": 3567
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -940,6 +941,60 @@
             [
               100.61311483383179,
               14.078358240617268
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id":18,
+      "properties": {
+        "description": "Admin, AITC, Avenue, Swimming pool Cluster",
+        "waterconsumption": 2567},
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              100.61188638210297,
+              14.08032247497063
+            ],
+            [
+              100.61188101768494,
+              14.079427514657716
+            ],
+            [
+              100.61180055141449,
+              14.079430116291613
+            ],
+            [
+              100.6118032336235,
+              14.078412875178609
+            ],
+            [
+              100.61197489500044,
+              14.078423281760237
+            ],
+            [
+              100.6131014227867,
+              14.078407671887623
+            ],
+            [
+              100.61309605836868,
+              14.079211578940898
+            ],
+            [
+              100.61324089765549,
+              14.079214180577262
+            ],
+            [
+              100.61323553323746,
+              14.080317271723128
+            ],
+            [
+              100.61188638210297,
+              14.08032247497063
             ]
           ]
         ]
