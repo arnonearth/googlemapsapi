@@ -5,10 +5,10 @@
       "type": "Feature",
       "id": 1,
       "properties": {
-        "description": "Standard Dorm Cluster",
-        "waterconsumption": 6957,
-        "male": 123,
-        "female": 92
+        "description": "Cluster 1",
+        "waterconsumption": 2685,
+        "male": "123",
+        "female": "92"
       },
       "geometry": {
         "type": "Polygon",
@@ -54,10 +54,10 @@
       "type": "Feature",
       "id": 2,
       "properties": {
-        "description": "Category 2 Cluster",
-        "waterconsumption": 487,
-        "male": 61,
-        "female": 56
+        "description": "Cluster 2",
+        "waterconsumption": 1066,
+        "male": "61",
+        "female": "56"
       },
       "geometry": {
         "type": "Polygon",
@@ -135,10 +135,10 @@
       "type": "Feature",
       "id": 3,
       "properties": {
-        "description": "Dorm L,M,N Cluster",
-        "waterconsumption": 948,
-        "male": 107,
-        "female": 56
+        "description": "Cluster 3",
+        "waterconsumption": 1818,
+        "male": "107",
+        "female": "56"
       },
       "geometry": {
         "type": "Polygon",
@@ -180,10 +180,10 @@
       "type": "Feature",
       "id": 4,
       "properties": {
-        "description": "Dorm P Cluster",
-        "waterconsumption": 730,
-        "male": 33,
-        "female": 11
+        "description": "Cluster 4",
+        "waterconsumption": 1401,
+        "male": "33",
+        "female": "11"
       },
       "geometry": {
         "type": "Polygon",
@@ -225,10 +225,10 @@
       "type": "Feature",
       "id": 5,
       "properties": {
-        "description": "Dorm Q,R,S Cluster",
-        "waterconsumption": 868,
-        "male": 116,
-        "female": 50
+        "description": "Cluster 5",
+        "waterconsumption": 1046,
+        "male": "116",
+        "female": "50"
       },
       "geometry": {
         "type": "Polygon",
@@ -274,10 +274,10 @@
       "type": "Feature",
       "id": 6,
       "properties": {
-        "description": "Category 5 Cluster",
-        "waterconsumption": 1566,
-        "male": 168,
-        "female": 124
+        "description": "Cluster 6",
+        "waterconsumption": 1098,
+        "male": "168",
+        "female": "124"
       },
       "geometry": {
         "type": "Polygon",
@@ -339,10 +339,10 @@
       "type": "Feature",
       "id": 7,
       "properties": {
-        "description": "Student Village 1 Cluster",
-        "waterconsumption": 1571,
-        "male": 46,
-        "female": 52
+        "description": "Cluster 7",
+        "waterconsumption": 1851,
+        "male": "46",
+        "female": "52"
       },
       "geometry": {
         "type": "Polygon",
@@ -376,10 +376,10 @@
       "type": "Feature",
       "id": 8,
       "properties": {
-        "description": "Student Village 2 Cluster",
-        "waterconsumption": 1130,
-        "male": 59,
-        "female": 45
+        "description": "Cluster 8",
+        "waterconsumption": 673,
+        "male": "59",
+        "female": "45"
       },
       "geometry": {
         "type": "Polygon",
@@ -425,10 +425,10 @@
       "type": "Feature",
       "id": 9,
       "properties": {
-        "description": "Student Village 3 Cluster",
-        "waterconsumption": 435,
-        "male": 86,
-        "female": 56
+        "description": "Cluster 9",
+        "waterconsumption": 866,
+        "male": "86",
+        "female": "56"
       },
       "geometry": {
         "type": "Polygon",
@@ -466,10 +466,10 @@
       "type": "Feature",
       "id": 10,
       "properties": {
-        "description": "Faculty House 1 - 8 Cluster",
-        "waterconsumption": 435,
-        "male": 11,
-        "female": 12
+        "description": "Cluster 10",
+        "waterconsumption": 0,
+        "male": "Non",
+        "female": "Non"
       },
       "geometry": {
         "type": "Polygon",
@@ -531,10 +531,10 @@
       "type": "Feature",
       "id": 11,
       "properties": {
-        "description": "Faculty House 9 - 28 Cluster",
-        "waterconsumption": 459,
-        "male": 12,
-        "female": 23
+        "description": "Cluster 11",
+        "waterconsumption": 540,
+        "male": "Non",
+        "female": "Non"
       },
       "geometry": {
         "type": "Polygon",
@@ -588,10 +588,10 @@
       "type": "Feature",
       "id": 12,
       "properties": {
-        "description": "Staff House 4 - 5 Cluster",
-        "waterconsumption": 515,
-        "male": 12,
-        "female": 23
+        "description": "Cluster 12",
+        "waterconsumption": 731,
+        "male": "Non",
+        "female": "Non"
       },
       "geometry": {
         "type": "Polygon",
@@ -625,10 +625,10 @@
       "type": "Feature",
       "id": 13,
       "properties": {
-        "description": "Staff House 6 - 8 Cluster",
-        "waterconsumption": 2056,
-        "male": 12,
-        "female": 23
+        "description": "Cluster 13",
+        "waterconsumption": 2093,
+        "male": "Non",
+        "female": "Non"
       },
       "geometry": {
         "type": "Polygon",
@@ -670,10 +670,10 @@
       "type": "Feature",
       "id": 14,
       "properties": {
-        "description": "Staff House 9 - 12 Cluster",
-        "waterconsumption": 885,
-        "male": 12,
-        "female": 34
+        "description": "Cluster 14",
+        "waterconsumption": 1358,
+        "male": "Non",
+        "female": "Non"
       },
       "geometry": {
         "type": "Polygon",
@@ -747,8 +747,8 @@
       "type": "Feature",
       "id": 15,
       "properties": {
-        "description": "Staff House 1-2 Cluster",
-        "waterconsumption": 349
+        "description": "Cluster 15",
+        "waterconsumption": 973
       },
       "geometry": {
         "type": "Polygon",
@@ -782,8 +782,8 @@
       "type": "Feature",
       "id": 16,
       "properties": {
-        "description": "Library, Bike, SODEXO, Inthanin Cluster",
-        "waterconsumption": 3567
+        "description": "Cluster 16",
+        "waterconsumption": 482
       },
       "geometry": {
         "type": "Polygon",
@@ -845,8 +845,8 @@
       "type": "Feature",
       "id": 17,
       "properties": {
-        "description": "Water Engineer, Academic Buildings Cluster",
-        "waterconsumption": 834
+        "description": "Cluster 17",
+        "waterconsumption": 3834
       },
       "geometry": {
         "type": "Polygon",
@@ -900,8 +900,8 @@
       "type": "Feature",
       "id": 18,
       "properties": {
-        "description": "Admission units, AITC, Avenue and Swimming pool Cluster",
-        "waterconsumption": 3567
+        "description": "Cluster 18",
+        "waterconsumption": 3335
       },
       "geometry": {
         "type": "Polygon",
@@ -983,8 +983,8 @@
       "type": "Feature",
       "id": 19,
       "properties": {
-        "description": "Extension, Outreach, ET Buildings Cluster",
-        "waterconsumption": 321
+        "description": "Cluster 19",
+        "waterconsumption": 562
       },
       "geometry": {
         "type": "Polygon",
@@ -1046,8 +1046,8 @@
       "type": "Feature",
       "id": 20,
       "properties": {
-        "description": "TC, CSIM, Environmental Station Cluster",
-        "waterconsumption": 567
+        "description": "Cluster 20",
+        "waterconsumption": 4911
       },
       "geometry": {
         "type": "Polygon",
@@ -1113,8 +1113,8 @@
       "type": "Feature",
       "id": 21,
       "properties": {
-        "description": "Agricultural, Food Tech. Building Clusters",
-        "waterconsumption": 434
+        "description": "Cluster 21",
+        "waterconsumption": 2976
       },
       "geometry": {
         "type": "Polygon",
@@ -1148,8 +1148,8 @@
       "type": "Feature",
       "id": 22,
       "properties": {
-        "description": "Chalerm Prakiet Building Cluster",
-        "waterconsumption": 83
+        "description": "Cluster 22",
+        "waterconsumption": 276
       },
       "geometry": {
         "type": "Polygon",
@@ -1183,8 +1183,8 @@
       "type": "Feature",
       "id": 23,
       "properties": {
-        "description": "SOM Building Cluster",
-        "waterconsumption": 80
+        "description": "Cluster 23",
+        "waterconsumption": 1839
       },
       "geometry": {
         "type": "Polygon",
@@ -1218,8 +1218,8 @@
       "type": "Feature",
       "id": 24,
       "properties": {
-        "description": "AIT Golf Course Cluster",
-        "waterconsumption": 1323
+        "description": "Cluster 24",
+        "waterconsumption": 1835
       },
       "geometry": {
         "type": "Polygon",
@@ -1357,8 +1357,8 @@
       "type": "Feature",
       "id":25,
       "properties": {
-        "description":"AITC School Cluster",
-        "waterconsumption":85},
+        "description":"Cluster 25",
+        "waterconsumption":172},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
