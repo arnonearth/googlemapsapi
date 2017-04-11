@@ -464,7 +464,7 @@
     },
     {
       "type": "Feature",
-      "id":10,
+      "id": 10,
       "properties": {
         "description": "Faculty House 1 - 8 Cluster",
         "waterconsumption": 435,
@@ -529,12 +529,13 @@
     },
     {
       "type": "Feature",
-      "id":11,
+      "id": 11,
       "properties": {
         "description": "Faculty House 9 - 28 Cluster",
         "waterconsumption": 459,
         "male": 8,
-        "female": 56},
+        "female": 56
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -585,12 +586,13 @@
     },
     {
       "type": "Feature",
-      "id":12,
+      "id": 12,
       "properties": {
-      "description": "Staff House 4 - 5 Cluster",
+        "description": "Staff House 4 - 5 Cluster",
         "waterconsumption": 515,
         "male": 8,
-        "female": 56 },
+        "female": 56
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -621,12 +623,13 @@
     },
     {
       "type": "Feature",
-      "id":13,
+      "id": 13,
       "properties": {
         "description": "Staff House 6 - 8 Cluster",
-        "waterconsumption": 607,
+        "waterconsumption": 2056,
         "male": 8,
-        "female": 56 },
+        "female": 56
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -658,6 +661,82 @@
             [
               100.60727298259735,
               14.077226521765542
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id":14,
+      "properties": {
+        "description": "Staff House 9 - 12 Cluster",
+        "waterconsumption": 885,
+        "male": 8,
+        "female": 56},
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              100.60657024383545,
+              14.077965391720037
+            ],
+            [
+              100.60659170150757,
+              14.077619371933189
+            ],
+            [
+              100.6065434217453,
+              14.07754392394015
+            ],
+            [
+              100.60635566711426,
+              14.077528314007447
+            ],
+            [
+              100.60637712478638,
+              14.077283758255835
+            ],
+            [
+              100.6062912940979,
+              14.077231725083424
+            ],
+            [
+              100.60630738735199,
+              14.077153675302588
+            ],
+            [
+              100.60634762048721,
+              14.077153675302588
+            ],
+            [
+              100.60632348060608,
+              14.07616504243775
+            ],
+            [
+              100.60729175806046,
+              14.076170245779815
+            ],
+            [
+              100.60728102922438,
+              14.076466836081643
+            ],
+            [
+              100.60729980468749,
+              14.076552691097174
+            ],
+            [
+              100.60726761817932,
+              14.076552691097174
+            ],
+            [
+              100.60725957155226,
+              14.077973196671598
+            ],
+            [
+              100.60657024383545,
+              14.077965391720037
             ]
           ]
         ]
