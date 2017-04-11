@@ -468,8 +468,8 @@
       "properties": {
         "description": "Faculty House 1 - 8 Cluster",
         "waterconsumption": 435,
-        "male": ,
-        "female": 
+        "male": 0,
+        "female": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -533,8 +533,8 @@
       "properties": {
         "description": "Faculty House 9 - 28 Cluster",
         "waterconsumption": 459,
-        "male": ,
-        "female": 
+        "male": 0,
+        "female": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -590,8 +590,8 @@
       "properties": {
         "description": "Staff House 4 - 5 Cluster",
         "waterconsumption": 515,
-        "male": ,
-        "female": 
+        "male": 0,
+        "female": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -627,8 +627,8 @@
       "properties": {
         "description": "Staff House 6 - 8 Cluster",
         "waterconsumption": 2056,
-        "male": ,
-        "female": 
+        "male": 0,
+        "female": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -672,8 +672,8 @@
       "properties": {
         "description": "Staff House 9 - 12 Cluster",
         "waterconsumption": 885,
-        "male": ,
-        "female": 
+        "male": 0,
+        "female": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -749,8 +749,8 @@
       "properties": {
         "description": "AIT Community School",
         "waterconsumption": 82,
-        "male": ,
-        "female": },
+        "male": 0,
+        "female": 0},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
