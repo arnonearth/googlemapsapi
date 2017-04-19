@@ -751,6 +751,51 @@
             ]
           }
       ]
+    },
+    {
+      "name":"Cluster 10",
+      "description":"Population",
+      "size":0
+    },
+    {
+      "name":"Cluster 11",
+      "description":"Population",
+      "children":[
+        {"name":"Male","description":"Males","size":18},
+        {"name":"Female","description":"Females","size":42}
+      ]
+    },
+    {
+      "name":"Cluster 12",
+      "description":"Population",
+      "children":[
+        {"name":"Male","description":"Males","size":41},
+        {"name":"Female","description":"Females","size":37}
+      ]
+    },
+    {
+      "name":"Cluster 13",
+      "description":"Population",
+      "children":[
+        {"name":"Male","description":"Males","size":155},
+        {"name":"Female","description":"Females","size":109}
+      ]
+    },
+    {
+      "name":"Cluster 14",
+      "description":"Population",
+      "children":[
+        {"name":"Male","description":"Males","size":83},
+        {"name":"Female","description":"Females","size":77}
+      ]
+    },
+    {
+      "name":"Cluster 11",
+      "description":"Population",
+      "children":[
+        {"name":"Male","description":"Males","size":68},
+        {"name":"Female","description":"Females","size":34}
+      ]
     }
   ]
 }
