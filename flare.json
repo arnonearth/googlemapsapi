@@ -4,54 +4,69 @@
   "children": [
     {
       "name": "Cluster 1",
-      "description": "Cluster 1 Population",
+      "description": "Population",
       "children": [
-        {"name": "Dorm A", "description": "Dorm A Population",
+        {"name": "Dorm A", "description": "Population",
           "children": [
             {"name":"Male","description":"Males","size": 34},
             {"name":"Female","description":"Females","size": 5}
             ]
         },
-        {"name": "Dorm B", "description": "Dorm B Population",
+        {"name": "Dorm B", "description": "Population",
           "children": [
             {"name":"Male","description":"Males","size": 36},
             {"name":"Female","description":"Females","size": 2}
           ]
         },
-        {"name": "Dorm C", "description": "Dorm C Population",
+        {"name": "Dorm C", "description": "Population",
           "children": [
             {"name":"Male","description":"Males","size": 1},
             {"name":"Female","description":"Females","size": 32}
           ]
         },
-        {"name": "Dorm D", "description": "Dorm D Population",
+        {"name": "Dorm D", "description": "Population",
           "children": [
             {"name":"Male","description":"Males","size": 16},
             {"name":"Female","description":"Females","size": 18}
           ]
         },
-        {"name": "Dorm F", "description": "Dorm F Population",
+        {"name": "Dorm F", "description": "Population",
           "children": [
             {"name":"Male","description":"Males","size": 36},
             {"name":"Female","description":"Females","size": 0}
           ]
         },
-        {"name": "Dorm G", "description": "Dorm G Population",
+        {"name": "Dorm G", "description": "Population",
           "children": [
             {"name":"Male","description":"Males","size": 0},
             {"name":"Female","description":"Females","size": 35}
           ]
         },
-        {"name": "Dorm H", "description": "Dorm H Population", "size": 0}
+        {"name": "Dorm H", "description": "Population", "size": 0}
       ]
     },
     {
       "name": "Cluster 2",
-      "description": "Cluster 2 Population",
+      "description": "Population",
       "children": [
-        {"name": "Dorm E", "description": "Dorm E Population", "size": 38},
-        {"name": "Dorm J", "description": "Dorm J Population", "size": 46},
-        {"name": "Dorm K", "description": "Dorm K Population", "size": 33}
+        {"name": "Dorm E", "description": "Dorm E Population",
+          "children": [
+            {"name":"Male","description":"Males","size": 18},
+            {"name":"Female","description":"Females","size": 20}
+            ]
+          },
+        {"name": "Dorm J", "description": "Dorm J Population",
+          "children": [
+            {"name":"Male","description":"Males","size": 20},
+            {"name":"Female","description":"Females","size": 26}
+            ]
+          },
+        {"name": "Dorm K", "description": "Dorm K Population",
+          "children": [
+            {"name":"Male","description":"Males","size": 23},
+            {"name":"Female","description":"Females","size": 10}
+            ]
+          }
       ]
     }
   ]
