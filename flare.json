@@ -32,8 +32,6 @@
         },
         {"name": "Dorm B", "description": "Population",
           "children": [
-            {"name":"Male","description":"Males",
-              "children": [
                 {"name":"Male","description":"Males",
                   "children":[
                     {"name":"Bangladesh", "description": "Population", "size": 2},
@@ -58,13 +56,9 @@
                   ]
                 }
                 ]
-              }
-          ]
         },
         {"name": "Dorm C", "description": "Population",
           "children": [
-            {"name":"Male","description":"Males",
-              "children": [
                 {"name":"Male","description":"Males",
                   "children":[
                     {"name":"Indian", "description": "Population", "size": 1}
@@ -80,14 +74,10 @@
                     {"name":"Filipino", "description": "Population", "size": 2}
                   ]
                 }
-                ]
-              }
-          ]
+              ]
         },
         {"name": "Dorm D", "description": "Population",
           "children": [
-            {"name":"Male","description":"Males",
-              "children": [
                 {"name":"Male","description":"Males",
                   "children":[
                     {"name":"Indian", "description": "Population", "size": 2},
@@ -108,14 +98,10 @@
                     {"name":"Sudanese", "description": "Population", "size": 4}
                   ]
                 }
-                ]
-              }
-          ]
+              ]
         },
         {"name": "Dorm F", "description": "Population",
           "children": [
-            {"name":"Male","description":"Males",
-              "children": [
                 {"name":"Male","description":"Males",
                   "children":[
                     {"name":"Bangladesh", "description": "Population", "size": 1},
@@ -134,8 +120,6 @@
                 },
                 {"name":"Female","description":"Females","size":0}
                 ]
-              }
-          ]
         },
         {"name": "Dorm G", "description": "Population",
           "children": [
