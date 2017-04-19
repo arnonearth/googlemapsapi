@@ -230,6 +230,233 @@
             ]
           }
       ]
+    },
+    {
+      "name": "Cluster 3",
+      "description": "Population",
+      "children": [
+        {"name": "Dorm M", "description": "Population",
+          "children": [
+            {"name":"Male","description":"Males",
+              "children":[
+                {"name":"Bangladesh", "description": "Population", "size": 2},
+                {"name":"Indian", "description": "Population", "size": 2},
+                {"name":"Thai", "description": "Population", "size": 4},
+                {"name":"Myanmar", "description": "Population", "size": 1},
+                {"name":"Pakhisthan", "description": "Population", "size": 3},
+                {"name":"Nepali", "description": "Population", "size": 2},
+                {"name":"Viatnamese", "description": "Population", "size": 1},
+                {"name":"Chinese", "description": "Population", "size": 1},
+                {"name":"Korean", "description": "Population", "size": 1},
+                {"name":"Tanzanian", "description": "Population", "size": 1}
+              ]
+            },
+            {"name":"Female","description":"Females",
+              "children":[
+                {"name":"Bangladesh", "description": "Population", "size": 1},
+                {"name":"Indian", "description": "Population", "size": 1},
+                {"name":"Thai", "description": "Population", "size": 9},
+                {"name":"Sri Lankan", "description": "Population", "size": 1},
+                {"name":"Myanmar", "description": "Population", "size": 2},
+                {"name":"Pakhisthan", "description": "Population", "size": 2},
+                {"name":"Nepali", "description": "Population", "size": 1},
+                {"name":"Chinese", "description": "Population", "size": 2},
+                {"name":"Japanese", "description": "Population", "size": 1}
+              ]
+            }
+            ]
+          },
+        {"name": "Dorm N", "description": "Dorm J Population",
+          "children": [
+            {"name":"Male","description":"Males",
+              "children":[
+                {"name":"Indian", "description": "Population", "size": 3},
+                {"name":"Thai", "description": "Population", "size": 6},
+                {"name":"Myanmar", "description": "Population", "size": 1},
+                {"name":"Pakhisthan", "description": "Population", "size": 4},
+                {"name":"Laotian", "description": "Population", "size": 1},
+                {"name":"Nepali", "description": "Population", "size": 2},
+                {"name":"Filipino", "description": "Population", "size": 1},
+                {"name":"Cambodian", "description": "Population", "size": 1},
+                {"name":"Ethiopian", "description": "Population", "size": 1}
+              ]
+            },
+            {"name":"Female","description":"Females",
+              "children":[
+                {"name":"Bangladesh", "description": "Population", "size": 1},
+                {"name":"Thai", "description": "Population", "size": 13},
+                {"name":"Myanmar", "description": "Population", "size": 5},
+                {"name":"Pakhisthan", "description": "Population", "size": 2},
+                {"name":"Filipino", "description": "Population", "size": 2},
+                {"name":"Chinese", "description": "Population", "size": 1},
+                {"name":"Kenyan", "description": "Population", "size": 2}
+              ]
+            }
+            ]
+          },
+        {"name": "Dorm L", "description": "Dorm K Population",
+          "children": [
+            {"name":"Male","description":"Males",
+              "children":[
+                {"name":"Indian", "description": "Population", "size": 2},
+                {"name":"Thai", "description": "Population", "size": 2},
+                {"name":"Afghan", "description": "Population", "size": 1},
+                {"name":"Pakhisthan", "description": "Population", "size": 9},
+                {"name":"Indonesian", "description": "Population", "size": 4},
+                {"name":"Filipino", "description": "Population", "size": 1},
+                {"name":"Chinese", "description": "Population", "size": 1},
+                {"name":"Kenyan", "description": "Population", "size": 1},
+                {"name":"Nigerian", "description": "Population", "size": 1},
+                {"name":"Iranian", "description": "Population", "size": 1}
+              ]
+            },
+            {"name":"Female","description":"Females",
+              "children":[
+                {"name":"Bangladesh", "description": "Population", "size": 1},
+                {"name":"Indian", "description": "Population", "size": 1},
+                {"name":"Thai", "description": "Population", "size": 2},
+                {"name":"Myanmar", "description": "Population", "size": 1},
+                {"name":"Pakhisthan", "description": "Population", "size": 2},
+                {"name":"Laotian", "description": "Population", "size": 1},
+                {"name":"Filipino", "description": "Population", "size": 1},
+                {"name":"Chinese", "description": "Population", "size": 1}
+              ]
+            }
+            ]
+          }
+      ]
+    },
+    {
+      "name": "Cluster 4",
+      "description": "Population",
+      "children": [
+        {"name": "Dorm P", "description": "Population",
+          "children": [
+            {"name":"Male","description":"Males",
+              "children":[
+                {"name":"Bangladesh", "description": "Population", "size": 2},
+                {"name":"Indian", "description": "Population", "size": 2},
+                {"name":"Thai", "description": "Population", "size": 4},
+                {"name":"Myanmar", "description": "Population", "size": 1},
+                {"name":"Pakhisthan", "description": "Population", "size": 3},
+                {"name":"Nepali", "description": "Population", "size": 2},
+                {"name":"Viatnamese", "description": "Population", "size": 1},
+                {"name":"Chinese", "description": "Population", "size": 1},
+                {"name":"Korean", "description": "Population", "size": 1},
+                {"name":"Tanzanian", "description": "Population", "size": 1}
+              ]
+            },
+            {"name":"Female","description":"Females",
+              "children":[
+                {"name":"Bangladesh", "description": "Population", "size": 1},
+                {"name":"Indian", "description": "Population", "size": 1},
+                {"name":"Thai", "description": "Population", "size": 9},
+                {"name":"Sri Lankan", "description": "Population", "size": 1},
+                {"name":"Myanmar", "description": "Population", "size": 2},
+                {"name":"Pakhisthan", "description": "Population", "size": 2},
+                {"name":"Nepali", "description": "Population", "size": 1},
+                {"name":"Chinese", "description": "Population", "size": 2},
+                {"name":"Japanese", "description": "Population", "size": 1}
+              ]
+            }
+            ]
+          }
+      ]
+    },
+    {
+      "name": "Cluster 5",
+      "description": "Population",
+      "children": [
+        {"name": "Dorm Q", "description": "Population",
+          "children": [
+            {"name":"Male","description":"Males",
+              "children":[
+                {"name":"Bangladesh", "description": "Population", "size": 2},
+                {"name":"Indian", "description": "Population", "size": 2},
+                {"name":"Thai", "description": "Population", "size": 4},
+                {"name":"Myanmar", "description": "Population", "size": 1},
+                {"name":"Pakhisthan", "description": "Population", "size": 3},
+                {"name":"Nepali", "description": "Population", "size": 2},
+                {"name":"Viatnamese", "description": "Population", "size": 1},
+                {"name":"Chinese", "description": "Population", "size": 1},
+                {"name":"Korean", "description": "Population", "size": 1},
+                {"name":"Tanzanian", "description": "Population", "size": 1}
+              ]
+            },
+            {"name":"Female","description":"Females",
+              "children":[
+                {"name":"Bangladesh", "description": "Population", "size": 1},
+                {"name":"Indian", "description": "Population", "size": 1},
+                {"name":"Thai", "description": "Population", "size": 9},
+                {"name":"Sri Lankan", "description": "Population", "size": 1},
+                {"name":"Myanmar", "description": "Population", "size": 2},
+                {"name":"Pakhisthan", "description": "Population", "size": 2},
+                {"name":"Nepali", "description": "Population", "size": 1},
+                {"name":"Chinese", "description": "Population", "size": 2},
+                {"name":"Japanese", "description": "Population", "size": 1}
+              ]
+            }
+            ]
+          },
+        {"name": "Dorm R", "description": "Dorm J Population",
+          "children": [
+            {"name":"Male","description":"Males",
+              "children":[
+                {"name":"Indian", "description": "Population", "size": 3},
+                {"name":"Thai", "description": "Population", "size": 6},
+                {"name":"Myanmar", "description": "Population", "size": 1},
+                {"name":"Pakhisthan", "description": "Population", "size": 4},
+                {"name":"Laotian", "description": "Population", "size": 1},
+                {"name":"Nepali", "description": "Population", "size": 2},
+                {"name":"Filipino", "description": "Population", "size": 1},
+                {"name":"Cambodian", "description": "Population", "size": 1},
+                {"name":"Ethiopian", "description": "Population", "size": 1}
+              ]
+            },
+            {"name":"Female","description":"Females",
+              "children":[
+                {"name":"Bangladesh", "description": "Population", "size": 1},
+                {"name":"Thai", "description": "Population", "size": 13},
+                {"name":"Myanmar", "description": "Population", "size": 5},
+                {"name":"Pakhisthan", "description": "Population", "size": 2},
+                {"name":"Filipino", "description": "Population", "size": 2},
+                {"name":"Chinese", "description": "Population", "size": 1},
+                {"name":"Kenyan", "description": "Population", "size": 2}
+              ]
+            }
+            ]
+          },
+        {"name": "Dorm S", "description": "Dorm K Population",
+          "children": [
+            {"name":"Male","description":"Males",
+              "children":[
+                {"name":"Indian", "description": "Population", "size": 2},
+                {"name":"Thai", "description": "Population", "size": 2},
+                {"name":"Afghan", "description": "Population", "size": 1},
+                {"name":"Pakhisthan", "description": "Population", "size": 9},
+                {"name":"Indonesian", "description": "Population", "size": 4},
+                {"name":"Filipino", "description": "Population", "size": 1},
+                {"name":"Chinese", "description": "Population", "size": 1},
+                {"name":"Kenyan", "description": "Population", "size": 1},
+                {"name":"Nigerian", "description": "Population", "size": 1},
+                {"name":"Iranian", "description": "Population", "size": 1}
+              ]
+            },
+            {"name":"Female","description":"Females",
+              "children":[
+                {"name":"Bangladesh", "description": "Population", "size": 1},
+                {"name":"Indian", "description": "Population", "size": 1},
+                {"name":"Thai", "description": "Population", "size": 2},
+                {"name":"Myanmar", "description": "Population", "size": 1},
+                {"name":"Pakhisthan", "description": "Population", "size": 2},
+                {"name":"Laotian", "description": "Population", "size": 1},
+                {"name":"Filipino", "description": "Population", "size": 1},
+                {"name":"Chinese", "description": "Population", "size": 1}
+              ]
+            }
+            ]
+          }
+      ]
     }
   ]
 }
