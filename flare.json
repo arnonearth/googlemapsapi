@@ -3,7 +3,7 @@
   "description": "Accommodation Population",
   "children": [
     {
-      "name": "Cluster 1",
+      "name": "Cluster 01",
       "description": "Population",
       "children": [
         {"name": "Dorm A", "description": "Population",
@@ -137,7 +137,7 @@
       ]
     },
     {
-      "name": "Cluster 2",
+      "name": "Cluster 02",
       "description": "Population",
       "children": [
         {"name": "Dorm E", "description": "Population",
@@ -232,7 +232,7 @@
       ]
     },
     {
-      "name": "Cluster 3",
+      "name": "Cluster 03",
       "description": "Population",
       "children": [
         {"name": "Dorm M", "description": "Population",
@@ -320,7 +320,7 @@
       ]
     },
     {
-      "name": "Cluster 4",
+      "name": "Cluster 04",
       "description": "Population",
       "children": [
         {"name": "Dorm P", "description": "Population",
@@ -348,7 +348,7 @@
       ]
     },
     {
-      "name": "Cluster 5",
+      "name": "Cluster 05",
       "description": "Population",
       "children": [
         {"name": "Dorm Q", "description": "Population",
@@ -429,7 +429,7 @@
       ]
     },
     {
-      "name": "Cluster 6",
+      "name": "Cluster 06",
       "description": "Population",
       "children": [
         {"name": "Dorm T", "description": "Population",
@@ -582,7 +582,7 @@
       ]
     },
     {
-      "name": "Cluster 7",
+      "name": "Cluster 07",
       "description": "Population",
       "children": [
         {"name": "SV1 Married", "description": "Population",
@@ -641,7 +641,7 @@
       ]
     },
     {
-      "name": "Cluster 8",
+      "name": "Cluster 08",
       "description": "Population",
       "children": [
         {"name": "SV2 Married", "description": "Population",
@@ -693,7 +693,7 @@
       ]
     },
     {
-      "name": "Cluster 9",
+      "name": "Cluster 09",
       "description": "Population",
       "children": [
         {"name": "SV3 Married", "description": "Population",
