@@ -8,8 +8,26 @@
       "children": [
         {"name": "Dorm A", "description": "Population",
           "children": [
-            {"name":"Male","description":"Males","size": 34},
-            {"name":"Female","description":"Females","size": 5}
+            {"name":"Male","description":"Males",
+              "children":[
+                {"name":"Bangladesh", "description": "Population", "size": 5},
+                {"name":"Indian", "description": "Population", "size": 5},
+                {"name":"Thai", "description": "Population", "size": 14},
+                {"name":"Sri Lankan", "description": "Population", "size": 3},
+                {"name":"Myanmar", "description": "Population", "size": 1},
+                {"name":"Afghan", "description": "Population", "size": 3},
+                {"name":"Pakhisthan", "description": "Population", "size": 1},
+                {"name":"Zambian", "description": "Population", "size": 1},
+                {"name":"Laotian", "description": "Population", "size": 1}
+              ]
+            },
+            {"name":"Female","description":"Females",
+              "children":[
+                {"name":"Thai", "description": "Population", "size": 2},
+                {"name":"French", "description": "Population", "size": 2},
+                {"name":"Belgian", "description": "Population", "size": 1},
+              ]
+            }
             ]
         },
         {"name": "Dorm B", "description": "Population",
