@@ -32,32 +32,121 @@
         },
         {"name": "Dorm B", "description": "Population",
           "children": [
-            {"name":"Male","description":"Males","size": 36},
-            {"name":"Female","description":"Females","size": 2}
+            {"name":"Male","description":"Males",
+              "children": [
+                {"name":"Male","description":"Males",
+                  "children":[
+                    {"name":"Bangladesh", "description": "Population", "size": 2},
+                    {"name":"Indian", "description": "Population", "size": 10},
+                    {"name":"Thai", "description": "Population", "size": 4},
+                    {"name":"Sri Lankan", "description": "Population", "size": 4},
+                    {"name":"Myanmar", "description": "Population", "size": 5},
+                    {"name":"Afghan", "description": "Population", "size": 1},
+                    {"name":"Pakhisthan", "description": "Population", "size": 2},
+                    {"name":"Neplai", "description": "Population", "size": 1},
+                    {"name":"Viatnamese", "description": "Population", "size": 3},
+                    {"name":"Indonesian", "description": "Population", "size": 1},
+                    {"name":"Filipino", "description": "Population", "size": 1},
+                    {"name":"Sudanese", "description": "Population", "size": 1},
+                    {"name":"Chinese", "description": "Population", "size": 1}
+                  ]
+                },
+                {"name":"Female","description":"Females",
+                  "children":[
+                    {"name":"Thai", "description": "Population", "size": 1},
+                    {"name":"Nepali", "description": "Population", "size": 1}
+                  ]
+                }
+                ]
+              }
           ]
         },
         {"name": "Dorm C", "description": "Population",
           "children": [
-            {"name":"Male","description":"Males","size": 1},
-            {"name":"Female","description":"Females","size": 32}
+            {"name":"Male","description":"Males",
+              "children": [
+                {"name":"Male","description":"Males",
+                  "children":[
+                    {"name":"Indian", "description": "Population", "size": 1}
+                  ]
+                },
+                {"name":"Female","description":"Females",
+                  "children":[
+                    {"name":"Bangladesh", "description": "Population", "size": 1},
+                    {"name":"Indian", "description": "Population", "size": 12},
+                    {"name":"Thai", "description": "Population", "size": 7},
+                    {"name":"Sri Lankan", "description": "Population", "size": 6},
+                    {"name":"Myanmar", "description": "Population", "size": 6},
+                    {"name":"Filipino", "description": "Population", "size": 2}
+                  ]
+                }
+                ]
+              }
           ]
         },
         {"name": "Dorm D", "description": "Population",
           "children": [
-            {"name":"Male","description":"Males","size": 16},
-            {"name":"Female","description":"Females","size": 18}
+            {"name":"Male","description":"Males",
+              "children": [
+                {"name":"Male","description":"Males",
+                  "children":[
+                    {"name":"Indian", "description": "Population", "size": 2},
+                    {"name":"Thai", "description": "Population", "size": 4},
+                    {"name":"Sri Lankan", "description": "Population", "size": 3},
+                    {"name":"Afghan", "description": "Population", "size": 2},
+                    {"name":"Viatnamese", "description": "Population", "size": 2},
+                    {"name":"Indonesian", "description": "Population", "size": 1},
+                    {"name":"Sudanese", "description": "Population", "size": 1},
+                    {"name":"Janapnese", "description": "Population", "size": 1}
+                  ]
+                },
+                {"name":"Female","description":"Females",
+                  "children":[
+                    {"name":"Thai", "description": "Population", "size": 9},
+                    {"name":"Sri Lankan", "description": "Population", "size": 4},
+                    {"name":"Viatnamese", "description": "Population", "size": 1},
+                    {"name":"Sudanese", "description": "Population", "size": 4}
+                  ]
+                }
+                ]
+              }
           ]
         },
         {"name": "Dorm F", "description": "Population",
           "children": [
-            {"name":"Male","description":"Males","size": 36},
-            {"name":"Female","description":"Females","size": 0}
+            {"name":"Male","description":"Males",
+              "children": [
+                {"name":"Male","description":"Males",
+                  "children":[
+                    {"name":"Bangladesh", "description": "Population", "size": 1},
+                    {"name":"Indian", "description": "Population", "size": 3},
+                    {"name":"Sri Lankan", "description": "Population", "size": 15},
+                    {"name":"French", "description": "Population", "size": 1},
+                    {"name":"Myanmar", "description": "Population", "size": 4},
+                    {"name":"Afghan", "description": "Population", "size": 3},
+                    {"name":"Viatnamese", "description": "Population", "size": 2},
+                    {"name":"Indonesian", "description": "Population", "size": 1},
+                    {"name":"Filipino", "description": "Population", "size": 3},
+                    {"name":"Chinese", "description": "Population", "size": 1},
+                    {"name":"Iceland", "description": "Population", "size": 1},
+                    {"name":"Ghanian", "description": "Population", "size": 1}
+                  ]
+                },
+                {"name":"Female","description":"Females","size":0}
+                ]
+              }
           ]
         },
         {"name": "Dorm G", "description": "Population",
           "children": [
             {"name":"Male","description":"Males","size": 0},
-            {"name":"Female","description":"Females","size": 35}
+            {"name":"Female","description":"Females",
+              "children":[
+                {"name":"Indian", "description": "Population", "size": 2},
+                {"name":"Sri Lankan", "description": "Population", "size": 19},
+                {"name":"Myanmar", "description": "Population", "size": 14}
+              ]
+            }
           ]
         },
         {"name": "Dorm H", "description": "Population", "size": 0}
