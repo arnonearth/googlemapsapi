@@ -388,20 +388,17 @@
                 {"name":"Afghan", "description": "Population", "size": 2},
                 {"name":"Pakhisthan", "description": "Population", "size": 3},
                 {"name":"Nepali", "description": "Population", "size": 2},
-                {"name":"Vietnamese", "description": "Population", "size": 1},
-                {"name":"Cambodian", "description": "Population", "size": 1},
-                {"name":"Ethiopian", "description": "Population", "size": 1}
+                {"name":"Vietnamese", "description": "Population", "size": 1}
               ]
             },
             {"name":"Female","description":"Females",
               "children":[
-                {"name":"Bangladesh", "description": "Population", "size": 1},
-                {"name":"Thai", "description": "Population", "size": 13},
-                {"name":"Myanmar", "description": "Population", "size": 5},
-                {"name":"Pakhisthan", "description": "Population", "size": 2},
-                {"name":"Filipino", "description": "Population", "size": 2},
-                {"name":"Chinese", "description": "Population", "size": 1},
-                {"name":"Kenyan", "description": "Population", "size": 2}
+                {"name":"Indian", "description": "Population", "size": 1},
+                {"name":"Thai", "description": "Population", "size": 6},
+                {"name":"Sri Lankan", "description": "Population", "size": 4},
+                {"name":"Nepali", "description": "Population", "size": 1},
+                {"name":"Vietnamese", "description": "Population", "size": 1},
+                {"name":"Timorian", "description": "Population", "size": 1}
               ]
             }
             ]
@@ -410,28 +407,21 @@
           "children": [
             {"name":"Male","description":"Males",
               "children":[
-                {"name":"Indian", "description": "Population", "size": 2},
-                {"name":"Thai", "description": "Population", "size": 2},
+                {"name":"Indian", "description": "Population", "size": 6},
+                {"name":"Thai", "description": "Population", "size": 4},
+                {"name":"Sri Lankan", "description": "Population", "size": 9},
+                {"name":"Myanmar", "description": "Population", "size": 3},
                 {"name":"Afghan", "description": "Population", "size": 1},
-                {"name":"Pakhisthan", "description": "Population", "size": 9},
-                {"name":"Indonesian", "description": "Population", "size": 4},
-                {"name":"Filipino", "description": "Population", "size": 1},
-                {"name":"Chinese", "description": "Population", "size": 1},
-                {"name":"Kenyan", "description": "Population", "size": 1},
-                {"name":"Nigerian", "description": "Population", "size": 1},
-                {"name":"Iranian", "description": "Population", "size": 1}
+                {"name":"Vietnamese", "description": "Population", "size": 1},
+                {"name":"Maldivian", "description": "Population", "size": 1}
               ]
             },
             {"name":"Female","description":"Females",
               "children":[
-                {"name":"Bangladesh", "description": "Population", "size": 1},
-                {"name":"Indian", "description": "Population", "size": 1},
-                {"name":"Thai", "description": "Population", "size": 2},
-                {"name":"Myanmar", "description": "Population", "size": 1},
-                {"name":"Pakhisthan", "description": "Population", "size": 2},
-                {"name":"Laotian", "description": "Population", "size": 1},
-                {"name":"Filipino", "description": "Population", "size": 1},
-                {"name":"Chinese", "description": "Population", "size": 1}
+                {"name":"Thai", "description": "Population", "size": 9},
+                {"name":"Sri Lankan", "description": "Population", "size": 5},
+                {"name":"Nepali", "description": "Population", "size": 1},
+                {"name":"Cambodian", "description": "Population", "size": 1}
               ]
             }
             ]
