@@ -1,16 +1,28 @@
 {
-  "name": "sections",
+  "name": "Population",
+  "size": 332,
   "children": [
     {
-      "name": "complete",
+      "name": "Cluster 1",
+      "size": 215,
       "children": [
-        {"name": "correct", "size": 10},
-        {"name": "incorrect", "size": 30}
+        {"name": "Dorm A", "size": 39},
+        {"name": "Dorm B", "size": 38},
+        {"name": "Dorm C", "size": 33},
+        {"name": "Dorm D", "size": 34},
+        {"name": "Dorm F", "size": 36},
+        {"name": "Dorm G", "size": 35},
+        {"name": "Dorm H", "size": 0}
       ]
     },
     {
-      "name": "incomplete",
-      "size": 20
+      "name": "Cluster 2",
+      "size": 117,
+      "children": [
+        {"name": "Dorm E", "size": 38},
+        {"name": "Dorm J", "size": 46},
+        {"name": "Dorm K", "size": 33}
+      ]
     }
   ]
 }
