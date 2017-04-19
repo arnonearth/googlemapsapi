@@ -5,16 +5,16 @@
   "children": [
     {
       "name": "Cluster 1",
-      "description": "Cluster 1",
+      "description": "analytics",
       "size": 215,
       "children": [
-        {"name": "Dorm A", "description": "Population", "size": 39},
-        {"name": "Dorm B", "description": "Population", "size": 38},
-        {"name": "Dorm C", "description": "Population", "size": 33},
-        {"name": "Dorm D", "description": "Population", "size": 34},
-        {"name": "Dorm F", "description": "Population", "size": 36},
-        {"name": "Dorm G", "description": "Population", "size": 35},
-        {"name": "Dorm H", "description": "Population", "size": 0}
+        {"name": "Dorm A", "description": "Dorm A", "size": 39},
+        {"name": "Dorm B", "description": "Dorm B", "size": 38},
+        {"name": "Dorm C", "description": "Dorm C", "size": 33},
+        {"name": "Dorm D", "description": "Dorm D", "size": 34},
+        {"name": "Dorm F", "description": "Dorm F", "size": 36},
+        {"name": "Dorm G", "description": "Dorm G", "size": 35},
+        {"name": "Dorm H", "description": "Dorm H", "size": 0}
       ]
     },
     {
