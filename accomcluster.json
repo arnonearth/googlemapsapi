@@ -530,7 +530,9 @@
       "id": 11,
       "properties": {
         "description": "Cluster 11",
-        "waterconsumption": 540
+        "waterconsumption": 540,
+        "male": 18,
+        "female": 42
       },
       "geometry": {
         "type": "Polygon",
@@ -585,7 +587,9 @@
       "id": 12,
       "properties": {
         "description": "Cluster 12",
-        "waterconsumption": 731
+        "waterconsumption": 731,
+        "male": 41,
+        "female": 37
       },
       "geometry": {
         "type": "Polygon",
@@ -620,7 +624,9 @@
       "id": 13,
       "properties": {
         "description": "Cluster 13",
-        "waterconsumption": 2093
+        "waterconsumption": 2093,
+        "male": 155,
+        "female": 109
       },
       "geometry": {
         "type": "Polygon",
@@ -663,7 +669,9 @@
       "id": 14,
       "properties": {
         "description": "Cluster 14",
-        "waterconsumption": 1358
+        "waterconsumption": 1358,
+        "male": 83,
+        "female": 77
       },
       "geometry": {
         "type": "Polygon",
@@ -738,7 +746,9 @@
       "id": 15,
       "properties": {
         "description": "Cluster 15",
-        "waterconsumption": 973
+        "waterconsumption": 973,
+        "male": 68,
+        "female": 34
       },
       "geometry": {
         "type": "Polygon",
