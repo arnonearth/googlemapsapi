@@ -25,7 +25,7 @@
               "children":[
                 {"name":"Thai", "description": "Population", "size": 2},
                 {"name":"French", "description": "Population", "size": 2},
-                {"name":"Belgian", "description": "Population", "size": 1},
+                {"name":"Belgian", "description": "Population", "size": 1}
               ]
             }
             ]
