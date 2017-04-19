@@ -753,11 +753,6 @@
       ]
     },
     {
-      "name":"Cluster 10",
-      "description":"Population",
-      "size":0
-    },
-    {
       "name":"Cluster 11",
       "description":"Population",
       "children":[
