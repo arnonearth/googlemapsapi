@@ -580,6 +580,177 @@
           ]
         }
       ]
+    },
+    {
+      "name": "Cluster 7",
+      "description": "Population",
+      "children": [
+        {"name": "Student Village 1 Married", "description": "Population",
+          "children": [
+            {"name":"Male","description":"Males",
+              "children":[
+                {"name":"Bangladesh", "description": "Population", "size": 5},
+                {"name":"Indian", "description": "Population", "size": 3},
+                {"name":"Thai", "description": "Population", "size": 1},
+                {"name":"Sri Lankan", "description": "Population", "size": 4},
+                {"name":"French", "description": "Population", "size": 1},
+                {"name":"Myanmar", "description": "Population", "size": 2},
+                {"name":"Pakhisthan", "description": "Population", "size": 1},
+                {"name":"Sudanese", "description": "Population", "size": 1},
+                {"name":"Nigerian", "description": "Population", "size": 1}
+              ]
+            },
+            {"name":"Female","description":"Females",
+              "children":[
+                {"name":"Bangladesh", "description": "Population", "size": 5},
+                {"name":"Indian", "description": "Population", "size": 3},
+                {"name":"Thai", "description": "Population", "size": 1},
+                {"name":"Sri Lankan", "description": "Population", "size": 4},
+                {"name":"French", "description": "Population", "size": 1},
+                {"name":"Myanmar", "description": "Population", "size": 2},
+                {"name":"Pakhisthan", "description": "Population", "size": 1},
+                {"name":"Sudanese", "description": "Population", "size": 1},
+                {"name":"Nigerian", "description": "Population", "size": 1}
+              ]
+            }
+            ]
+          },
+        {"name": "Student Vilalge 1 Single", "description": "Population",
+          "children": [
+            {"name":"Male","description":"Males",
+              "children":[
+                {"name":"Indian", "description": "Population", "size": 2},
+                {"name":"Thai", "description": "Population", "size": 3},
+                {"name":"Sri Lankan", "description": "Population", "size": 19},
+                {"name":"Myanmar", "description": "Population", "size": 1},
+                {"name":"Filipino", "description": "Population", "size": 3},
+                {"name":"Colombian", "description": "Population", "size": 1}
+              ]
+            },
+            {"name":"Female","description":"Females",
+              "children":[
+                {"name":"Indian", "description": "Population", "size": 9},
+                {"name":"Thai", "description": "Population", "size": 6},
+                {"name":"Sri Lankan", "description": "Population", "size": 12},
+                {"name":"Myanmar", "description": "Population", "size": 4},
+                {"name":"Nepali", "description": "Population", "size": 3}
+              ]
+            }
+            ]
+          }
+      ]
+    },
+    {
+      "name": "Cluster 8",
+      "description": "Population",
+      "children": [
+        {"name": "Student Village 2 Married", "description": "Population",
+          "children": [
+            {"name":"Male","description":"Males",
+              "children":[
+                {"name":"Indian", "description": "Population", "size": 5},
+                {"name":"Sri Lankan", "description": "Population", "size": 3},
+                {"name":"Myanmar", "description": "Population", "size": 1},
+                {"name":"Nepali", "description": "Population", "size": 1},
+                {"name":"Indonesian", "description": "Population", "size": 1},
+                {"name":"Chinese", "description": "Population", "size": 1}
+              ]
+            },
+            {"name":"Female","description":"Females",
+              "children":[
+                {"name":"Indian", "description": "Population", "size": 5},
+                {"name":"Sri Lankan", "description": "Population", "size": 3},
+                {"name":"Myanmar", "description": "Population", "size": 1},
+                {"name":"Nepali", "description": "Population", "size": 1},
+                {"name":"Indonesian", "description": "Population", "size": 1},
+                {"name":"Chinese", "description": "Population", "size": 1}
+              ]
+            }
+            ]
+          },
+        {"name": "Student Village 2 Single", "description": "Population",
+          "children": [
+            {"name":"Male","description":"Males",
+              "children":[
+                {"name":"Bangladesh", "description": "Population", "size": 1},
+                {"name":"Thai", "description": "Population", "size": 3},
+                {"name":"Sri Lankan", "description": "Population", "size": 31},
+                {"name":"Nepali", "description": "Population", "size": 2},
+                {"name":"Cambodian", "description": "Population", "size": 7},
+                {"name":"Bhutanese", "description": "Population", "size": 3}
+              ]
+            },
+            {"name":"Female","description":"Females",
+              "children":[
+                {"name":"Indian", "description": "Population", "size": 9},
+                {"name":"Thai", "description": "Population", "size": 6},
+                {"name":"Sri Lankan", "description": "Population", "size": 15},
+                {"name":"Cambodian", "description": "Population", "size": 3}
+              ]
+            }
+            ]
+          }
+      ]
+    },
+    {
+      "name": "Cluster 9",
+      "description": "Population",
+      "children": [
+        {"name": "Student Village 3 Married", "description": "Population",
+          "children": [
+            {"name":"Male","description":"Males",
+              "children":[
+                {"name":"Bangladesh", "description": "Population", "size": 5},
+                {"name":"Indian", "description": "Population", "size": 1},
+                {"name":"Thai", "description": "Population", "size": 6},
+                {"name":"Afghan", "description": "Population", "size": 4},
+                {"name":"Pakhisthan", "description": "Population", "size": 2},
+                {"name":"Nepali", "description": "Population", "size": 1},
+                {"name":"Vietnamese", "description": "Population", "size": 1},
+                {"name":"Indonesian", "description": "Population", "size": 6},
+                {"name":"Filipino", "description": "Population", "size": 3},
+                {"name":"Chinese", "description": "Population", "size": 1},
+                {"name":"Canadian", "description": "Population", "size": 1}
+              ]
+            },
+            {"name":"Female","description":"Females",
+              "children":[
+                {"name":"Bangladesh", "description": "Population", "size": 5},
+                {"name":"Indian", "description": "Population", "size": 1},
+                {"name":"Thai", "description": "Population", "size": 6},
+                {"name":"Afghan", "description": "Population", "size": 4},
+                {"name":"Pakhisthan", "description": "Population", "size": 2},
+                {"name":"Nepali", "description": "Population", "size": 1},
+                {"name":"Vietnamese", "description": "Population", "size": 1},
+                {"name":"Indonesian", "description": "Population", "size": 6},
+                {"name":"Filipino", "description": "Population", "size": 3},
+                {"name":"Chinese", "description": "Population", "size": 1},
+                {"name":"Canadian", "description": "Population", "size": 1}
+              ]
+            }
+            ]
+          },
+        {"name": "Student Village 3 Single", "description": "Population",
+          "children": [
+            {"name":"Male","description":"Males",
+              "children":[
+                {"name":"Thai", "description": "Population", "size": 7},
+                {"name":"Sri Lankan", "description": "Population", "size": 22},
+                {"name":"Myanmar", "description": "Population", "size": 9},
+                {"name":"Afghan", "description": "Population", "size": 3},
+                {"name":"Nepali", "description": "Population", "size": 13}
+              ]
+            },
+            {"name":"Female","description":"Females",
+              "children":[
+                {"name":"Thai", "description": "Population", "size": 12},
+                {"name":"Sri Lankan", "description": "Population", "size": 3},
+                {"name":"Myanmar", "description": "Population", "size": 9}
+              ]
+            }
+            ]
+          }
+      ]
     }
   ]
 }
