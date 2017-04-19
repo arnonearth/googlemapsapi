@@ -42,7 +42,7 @@
                     {"name":"Afghan", "description": "Population", "size": 1},
                     {"name":"Pakhisthan", "description": "Population", "size": 2},
                     {"name":"Nepali", "description": "Population", "size": 1},
-                    {"name":"Viatnamese", "description": "Population", "size": 3},
+                    {"name":"Vietnamese", "description": "Population", "size": 3},
                     {"name":"Indonesian", "description": "Population", "size": 1},
                     {"name":"Filipino", "description": "Population", "size": 1},
                     {"name":"Sudanese", "description": "Population", "size": 1},
@@ -84,7 +84,7 @@
                     {"name":"Thai", "description": "Population", "size": 4},
                     {"name":"Sri Lankan", "description": "Population", "size": 3},
                     {"name":"Afghan", "description": "Population", "size": 2},
-                    {"name":"Viatnamese", "description": "Population", "size": 2},
+                    {"name":"Vietnamese", "description": "Population", "size": 2},
                     {"name":"Indonesian", "description": "Population", "size": 1},
                     {"name":"Sudanese", "description": "Population", "size": 1},
                     {"name":"Janapnese", "description": "Population", "size": 1}
@@ -94,7 +94,7 @@
                   "children":[
                     {"name":"Thai", "description": "Population", "size": 9},
                     {"name":"Sri Lankan", "description": "Population", "size": 4},
-                    {"name":"Viatnamese", "description": "Population", "size": 1},
+                    {"name":"Vietnamese", "description": "Population", "size": 1},
                     {"name":"Sudanese", "description": "Population", "size": 4}
                   ]
                 }
@@ -110,7 +110,7 @@
                     {"name":"French", "description": "Population", "size": 1},
                     {"name":"Myanmar", "description": "Population", "size": 4},
                     {"name":"Afghan", "description": "Population", "size": 3},
-                    {"name":"Viatnamese", "description": "Population", "size": 2},
+                    {"name":"Vietnamese", "description": "Population", "size": 2},
                     {"name":"Indonesian", "description": "Population", "size": 1},
                     {"name":"Filipino", "description": "Population", "size": 3},
                     {"name":"Chinese", "description": "Population", "size": 1},
@@ -150,7 +150,7 @@
                 {"name":"Myanmar", "description": "Population", "size": 1},
                 {"name":"Pakhisthan", "description": "Population", "size": 3},
                 {"name":"Nepali", "description": "Population", "size": 2},
-                {"name":"Viatnamese", "description": "Population", "size": 1},
+                {"name":"Vietnamese", "description": "Population", "size": 1},
                 {"name":"Chinese", "description": "Population", "size": 1},
                 {"name":"Korean", "description": "Population", "size": 1},
                 {"name":"Tanzanian", "description": "Population", "size": 1}
@@ -245,7 +245,7 @@
                 {"name":"Myanmar", "description": "Population", "size": 2},
                 {"name":"Pakhisthan", "description": "Population", "size": 2},
                 {"name":"Nepali", "description": "Population", "size": 1},
-                {"name":"Viatnamese", "description": "Population", "size": 1},
+                {"name":"Vietnamese", "description": "Population", "size": 1},
                 {"name":"Indonesian", "description": "Population", "size": 1}
               ]
             },
@@ -255,7 +255,7 @@
                 {"name":"Thai", "description": "Population", "size": 12},
                 {"name":"Sri Lankan", "description": "Population", "size": 2},
                 {"name":"Myanmar", "description": "Population", "size": 3},
-                {"name":"Viatnamese", "description": "Population", "size": 1},
+                {"name":"Vietnamese", "description": "Population", "size": 1},
                 {"name":"Malaysian", "description": "Population", "size": 1}
               ]
             }
@@ -272,7 +272,7 @@
                 {"name":"Myanmar", "description": "Population", "size": 3},
                 {"name":"Afghan", "description": "Population", "size": 1},
                 {"name":"Nepali", "description": "Population", "size": 3},
-                {"name":"Viatnamese", "description": "Population", "size": 4},
+                {"name":"Vietnamese", "description": "Population", "size": 4},
                 {"name":"Indonesian", "description": "Population", "size": 1},
                 {"name":"Norwegian", "description": "Population", "size": 1}
               ]
@@ -286,7 +286,7 @@
                 {"name":"Myanmar", "description": "Population", "size": 2},
                 {"name":"Laotian", "description": "Population", "size": 1},
                 {"name":"Nepali", "description": "Population", "size": 1},
-                {"name":"Viatnamese", "description": "Population", "size": 1},
+                {"name":"Vietnamese", "description": "Population", "size": 1},
                 {"name":"Filipino", "description": "Population", "size": 1}
               ]
             }
@@ -332,7 +332,7 @@
                 {"name":"Afghan", "description": "Population", "size": 17},
                 {"name":"Pakhisthan", "description": "Population", "size": 6},
                 {"name":"Nepali", "description": "Population", "size": 3},
-                {"name":"Viatnamese", "description": "Population", "size": 1}
+                {"name":"Vietnamese", "description": "Population", "size": 1}
               ]
             },
             {"name":"Female","description":"Females",
@@ -355,29 +355,23 @@
           "children": [
             {"name":"Male","description":"Males",
               "children":[
-                {"name":"Bangladesh", "description": "Population", "size": 2},
-                {"name":"Indian", "description": "Population", "size": 2},
-                {"name":"Thai", "description": "Population", "size": 4},
-                {"name":"Myanmar", "description": "Population", "size": 1},
-                {"name":"Pakhisthan", "description": "Population", "size": 3},
-                {"name":"Nepali", "description": "Population", "size": 2},
-                {"name":"Viatnamese", "description": "Population", "size": 1},
-                {"name":"Chinese", "description": "Population", "size": 1},
-                {"name":"Korean", "description": "Population", "size": 1},
-                {"name":"Tanzanian", "description": "Population", "size": 1}
+                {"name":"Indian", "description": "Population", "size": 7},
+                {"name":"Thai", "description": "Population", "size": 7},
+                {"name":"Sri Lankan", "description": "Population", "size": 8},
+                {"name":"Myanmar", "description": "Population", "size": 16},
+                {"name":"Afghan", "description": "Population", "size": 2},
+                {"name":"Nepali", "description": "Population", "size": 3},
+                {"name":"Bhutanese", "description": "Population", "size": 3},
+                {"name":"Canadian", "description": "Population", "size": 1}
               ]
             },
             {"name":"Female","description":"Females",
               "children":[
-                {"name":"Bangladesh", "description": "Population", "size": 1},
                 {"name":"Indian", "description": "Population", "size": 1},
-                {"name":"Thai", "description": "Population", "size": 9},
-                {"name":"Sri Lankan", "description": "Population", "size": 1},
-                {"name":"Myanmar", "description": "Population", "size": 2},
-                {"name":"Pakhisthan", "description": "Population", "size": 2},
-                {"name":"Nepali", "description": "Population", "size": 1},
-                {"name":"Chinese", "description": "Population", "size": 2},
-                {"name":"Japanese", "description": "Population", "size": 1}
+                {"name":"Thai", "description": "Population", "size": 2},
+                {"name":"Sri Lankan", "description": "Population", "size": 6},
+                {"name":"Myanmar", "description": "Population", "size": 10},
+                {"name":"Nepali", "description": "Population", "size": 1}
               ]
             }
             ]
@@ -386,13 +380,15 @@
           "children": [
             {"name":"Male","description":"Males",
               "children":[
+                {"name":"Bangladesh", "description": "Population", "size": 2},
                 {"name":"Indian", "description": "Population", "size": 3},
-                {"name":"Thai", "description": "Population", "size": 6},
-                {"name":"Myanmar", "description": "Population", "size": 1},
-                {"name":"Pakhisthan", "description": "Population", "size": 4},
-                {"name":"Laotian", "description": "Population", "size": 1},
+                {"name":"Thai", "description": "Population", "size": 13},
+                {"name":"Sri Lankan", "description": "Population", "size": 11},
+                {"name":"Myanmar", "description": "Population", "size": 7},
+                {"name":"Afghan", "description": "Population", "size": 2},
+                {"name":"Pakhisthan", "description": "Population", "size": 3},
                 {"name":"Nepali", "description": "Population", "size": 2},
-                {"name":"Filipino", "description": "Population", "size": 1},
+                {"name":"Vietnamese", "description": "Population", "size": 1},
                 {"name":"Cambodian", "description": "Population", "size": 1},
                 {"name":"Ethiopian", "description": "Population", "size": 1}
               ]
