@@ -1,0 +1,242 @@
+{
+  "name": "July Consumption",
+  "description":"July Waterconsumption",
+  "children": [
+    {
+      "name": "Cluster 01",
+      "description":"Total Consumption",
+      "children": [
+        {"name": "Interlab","description":"Waterconsumption", "size": 18},
+        {"name": "Prayer Room","description":"Waterconsumption", "size": 16},
+        {"name": "Watervending F","description":"Waterconsumption", "size": 6},
+        {"name": "Dorm A-H","description":"Waterconsumption", "size": 2645}
+      ]
+    },
+    {
+      "name": "Cluster 02",
+      "description":"Total Consumption",
+      "children": [
+        {"name": "Korea House","description":"Waterconsumption", "size": 11},
+        {"name": "SU Office","description":"Waterconsumption", "size": 233},
+        {"name": "SU Snackbar","description":"Waterconsumption", "size": 33},
+        {"name": "SU Beverage","description":"Waterconsumption", "size": 56},
+        {"name": "Lanka Food","description":"Waterconsumption", "size": 19},
+        {"name": "Dishwasher","description":"Waterconsumption", "size": 94},
+        {"name": "Vendor A","description":"Waterconsumption", "size": 14},
+        {"name": "Vendor B","description":"Waterconsumption", "size": 33},
+        {"name": "Vendor C","description":"Waterconsumption", "size": 3},
+        {"name": "Vendor D","description":"Waterconsumption", "size": 13},
+        {"name": "Vendor H","description":"Waterconsumption", "size": 32},
+        {"name": "Vendor F","description":"Waterconsumption", "size": 81},
+        {"name": "Toilet Cafe 1","description":"Waterconsumption", "size": 6},
+        {"name": "Toilet Cafe 2","description":"Waterconsumption", "size": 9},
+        {"name": "108 Shop A","description":"Waterconsumption", "size": 4},
+        {"name": "Thai Inter Food","description":"Waterconsumption", "size": 9},
+        {"name": "Dorm J-K","description":"Waterconsumption", "size": 416}
+      ]
+    },
+    {
+      "name": "Cluster 03",
+      "description":"Total Consumption",
+      "children": [
+        {"name": "Dorm L,M,N","description":"Waterconsumption", "size": 1818}
+      ]
+    },
+    {
+      "name": "Cluster 04",
+      "description":"Total Consumption",
+      "children": [
+        {"name": "Dorm P","description":"Waterconsumption", "size": 1401}
+      ]
+    },
+    {
+      "name": "Cluster 05",
+      "description":"Total Consumption",
+      "children": [
+        {"name": "Dorm Q,R,S","description":"Waterconsumption", "size": 1036},
+        {"name": "Watervending Q","description":"Waterconsumption", "size": 10}
+      ]
+    },
+    {
+      "name": "Cluster 06",
+      "description":"Total Consumption",
+      "children": [
+        {"name": "Dorm T","description":"Waterconsumption", "size": 301},
+        {"name": "Dorm V","description":"Waterconsumption", "size": 297},
+        {"name": "Dorm W","description":"Waterconsumption", "size": 162},
+        {"name": "Dorm X","description":"Waterconsumption", "size": 156},
+        {"name": "Dorm Y","description":"Waterconsumption", "size": 177},
+        {"name": "Watervending T","description":"Waterconsumption", "size": 5}
+      ]
+    },
+    {
+      "name": "Cluster 07",
+      "description":"Total Consumption",
+      "children": [
+        {"name": "SV1","description":"Waterconsumption", "size": 1851}
+      ]
+    },
+    {
+      "name": "Cluster 08",
+      "description":"Total Consumption",
+      "children": [
+        {"name": "SV2","description":"Waterconsumption", "size": 668},
+        {"name": "Watervending SV2","description":"Waterconsumption", "size": 5}
+      ]
+    },
+    {
+      "name": "Cluster 09",
+      "description":"Total Consumption",
+      "children": [
+        {"name": "SV3","description":"Waterconsumption", "size": 860},
+        {"name": "Watervending SV3","description":"Waterconsumption", "size": 6}
+      ]
+    },
+    {
+      "name": "Cluster 11",
+      "description":"Total Consumption",
+      "children": [
+        {"name": "FH9-14","description":"Waterconsumption", "size": 268},
+        {"name": "FH15-18","description":"Waterconsumption", "size": 95},
+        {"name": "FH19-28","description":"Waterconsumption", "size": 177}
+      ]
+    },
+    {
+      "name": "Cluster 12",
+      "description":"Total Consumption",
+      "children": [
+        {"name": "ST4","description":"Waterconsumption", "size": 300},
+        {"name": "ST5","description":"Waterconsumption", "size": 410},
+        {"name": "Watervending ST5","description":"Waterconsumption", "size": 21}
+      ]
+    },
+    {
+      "name": "Cluster 13",
+      "description":"Total Consumption",
+      "children": [
+        {"name": "ST6","description":"Waterconsumption", "size": 1102},
+        {"name": "ST7","description":"Waterconsumption", "size": 455},
+        {"name": "ST8","description":"Waterconsumption", "size": 536}
+      ]
+    },
+    {
+      "name": "Cluster 14",
+      "description":"Total Consumption",
+      "children": [
+        {"name": "ST9","description":"Waterconsumption", "size": 589},
+        {"name": "ST10","description":"Waterconsumption", "size": 359},
+        {"name": "ST11","description":"Waterconsumption", "size": 165},
+        {"name": "ST12","description":"Waterconsumption", "size": 103},
+        {"name": "Watervending ST9","description":"Waterconsumption", "size": 142}
+      ]
+    },
+    {
+      "name": "Cluster 15",
+      "description":"Total Consumption",
+      "children": [
+        {"name": "ST2","description":"Waterconsumption", "size": 104},
+        {"name": "ST3","description":"Waterconsumption", "size": 852},
+        {"name": "Habitech","description":"Waterconsumption", "size": 17}
+      ]
+    },
+    {
+      "name": "Cluster 16",
+      "description":"Total Consumption",
+      "children": [
+        {"name": "Bicycle Shop","description":"Waterconsumption", "size": 2},
+        {"name": "Physical Plant","description":"Waterconsumption", "size": 447},
+        {"name": "Watervending Bicycle","description":"Waterconsumption", "size": 7},
+        {"name": "Inthanin Cofee","description":"Waterconsumption", "size": 26}
+      ]
+    },
+    {
+      "name": "Cluster 17",
+      "description":"Total Consumption",
+      "children": [
+        {"name": "LDRC","description":"Waterconsumption", "size": 274},
+        {"name": "Chiller Room","description":"Waterconsumption", "size": 2191},
+        {"name": "GTE","description":"Waterconsumption", "size": 47},
+        {"name": "SCE","description":"Waterconsumption", "size": 86},
+        {"name": "SET Coffee","description":"Waterconsumption", "size": 2},
+        {"name": "WRE","description":"Waterconsumption", "size": 57},
+        {"name": "SERD Office","description":"Waterconsumption", "size": 30},
+        {"name": "REC","description":"Waterconsumption", "size": 1147}
+      ]
+    },
+    {
+      "name": "Cluster 18",
+      "description":"Total Consumption",
+      "children": [
+        {"name": "Admin","description":"Waterconsumption", "size": 500},
+        {"name": "TravelClick","description":"Waterconsumption", "size": 4},
+        {"name": "Hotel","description":"Waterconsumption", "size": 1513},
+        {"name": "Hairdresser","description":"Waterconsumption", "size": 6},
+        {"name": "UFM","description":"Waterconsumption", "size": 6},
+        {"name": "Swimmingpool","description":"Waterconsumption", "size": 1265},
+        {"name": "SoGood","description":"Waterconsumption", "size": 6},
+        {"name": "Homkrun","description":"Waterconsumption", "size": 32}
+      ]
+    },
+    {
+      "name": "Cluster 19",
+      "description":"Total Consumption",
+      "children": [
+        {"name": "Outreach","description":"Waterconsumption", "size": 73},
+        {"name": "RCC","description":"Waterconsumption", "size": 168},
+        {"name": "ET","description":"Waterconsumption", "size": 321}
+      ]
+    },
+    {
+      "name": "Cluster 20",
+      "description":"Total Consumption",
+      "children": [
+        {"name": "CSIM","description":"Waterconsumption", "size": 4474},
+        {"name": "RSGIS","description":"Waterconsumption", "size": 25},
+        {"name": "TC","description":"Waterconsumption", "size": 40},
+        {"name": "Env","description":"Waterconsumption", "size": 299},
+        {"name": "Pulp","description":"Waterconsumption", "size": 73}
+      ]
+    },
+    {
+      "name": "Cluster 21",
+      "description":"Total Consumption",
+      "children": [
+        {"name": "AFE Farm1","description":"Waterconsumption", "size": 19},
+        {"name": "AFE Farm2","description":"Waterconsumption", "size": 101},
+        {"name": "AFE Farm3","description":"Waterconsumption", "size": 47},
+        {"name": "Biotech","description":"Waterconsumption", "size": 519},
+        {"name": "REC","description":"Waterconsumption", "size": 2244},
+        {"name": "AFE","description":"Waterconsumption", "size": 36},
+        {"name": "Aqua","description":"Waterconsumption", "size": 10}
+      ]
+    },
+    {
+      "name": "Cluster 22",
+      "description":"Total Consumption",
+      "children": [
+        {"name": "ISE","description":"Waterconsumption", "size": 276}
+      ]
+    },
+    {
+      "name": "Cluster 23",
+      "description":"Total Consumption",
+      "children": [
+        {"name": "SOM","description":"Waterconsumption", "size": 1839}
+      ]
+    },
+    {
+      "name": "Cluster 24",
+      "description":"Total Consumption",
+      "children": [
+        {"name": "Golf Club","description":"Waterconsumption", "size": 1835}
+      ]
+    },
+    {
+      "name": "Cluster 25",
+      "description":"Total Consumption",
+      "children": [
+        {"name": "AITCS","description":"Waterconsumption", "size": 172}
+      ]
+    }
+  ]
+}
